@@ -1,0 +1,16 @@
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.csprojResolveAssemblyReference.cache
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.exe.config
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.exe
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.exe
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.exe.config
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.exe
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\bin\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.csprojResolveAssemblyReference.cache
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.exe
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.pdb

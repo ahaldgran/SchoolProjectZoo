@@ -1,0 +1,10 @@
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag1\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.csprojResolveAssemblyReference.cache
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.csprojResolveAssemblyReference.cache
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.pdb
