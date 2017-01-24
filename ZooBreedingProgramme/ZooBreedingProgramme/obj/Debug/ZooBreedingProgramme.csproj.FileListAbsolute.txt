@@ -12,3 +12,4 @@ C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreeding
 C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.pdb
 C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.dll
 C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.csprojResolveAssemblyReference.cache

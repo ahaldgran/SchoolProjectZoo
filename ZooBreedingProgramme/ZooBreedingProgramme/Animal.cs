@@ -14,6 +14,7 @@ namespace ZooBreedingProgramme
         IAnimal Breed(IAnimal animal1, IAnimal animal2);
         void Show();
         string ShowDescription();
+        event EventHandler<BreedEventArgs> ChildCreatedEvent;
     }
 
     public class Animal : IAnimal
@@ -25,7 +26,6 @@ namespace ZooBreedingProgramme
         public Animal()
         {
         }
-
         public Animal(string name, IClassification iClassification, ISpecies iSpecies)
         {
             this.Name = name;
@@ -33,32 +33,37 @@ namespace ZooBreedingProgramme
             this._iSpecies = iSpecies;
             ZooLogger.Instance.Log("Animal constructed: " + ShowDescription());
         }
-
         public void Show()
         {
             ZooLogger.Instance.Log("Showing: " + ShowDescription());
             Console.WriteLine("Showing: " + ShowDescription());
         }
-
         public string ShowDescription()
         {
             return
                 $"{Name} belongs to classifation {_iClassification.GetName()} within the species of {_iSpecies.GetName()}s";
         }
-
         public IAnimal Breed(IAnimal animal1, IAnimal animal2)
         {
             if (animal1._iClassification.Name == animal2._iClassification.Name && animal1._iSpecies.GetName() == animal2._iSpecies.GetName())
             {
                 this.Name= $"{animal1.Name}{animal2.Name} IsA{animal1._iSpecies.GetName()}";
                 this._iClassification = animal1._iClassification;
-                this._iSpecies = animal1._iSpecies; 
+                this._iSpecies = animal1._iSpecies;
+                //Event
+
+                OnChildCreatedEvent(new BreedEventArgs(this));
                 return this;
-                //    string ChildName = $"{_chromosome1.Name}{_chromosome2.Name} IsAMammel";
-                //    ZooLogger.Instance.Log($"New child is born: {ChildName}");
-                //    return new Animal(ChildName, _chromosome1._iClassification, _chromosome1._iSpecies);
             }
             return new Animal();
         }
+
+        protected virtual void OnChildCreatedEvent(BreedEventArgs e)
+        {
+            ChildCreatedEvent?.Invoke(this,e);
+        }
+
+        public event EventHandler<BreedEventArgs> ChildCreatedEvent;
     }
+    
 }
