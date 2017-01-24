@@ -1,0 +1,8 @@
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\bin\Debug\ZooReflector.exe.config
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\bin\Debug\ZooReflector.exe
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\bin\Debug\ZooReflector.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\bin\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\obj\Debug\ZooReflector.csprojResolveAssemblyReference.cache
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\obj\Debug\ZooReflector.exe
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooReflector\obj\Debug\ZooReflector.pdb

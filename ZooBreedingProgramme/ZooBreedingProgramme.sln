@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooBreedingProgramme", "Zoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zooconsole", "zooconsole\zooconsole.csproj", "{B34EBBEC-DE30-43A7-8AAF-7326F2C6712F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooReflector", "ZooReflector\ZooReflector.csproj", "{0CBFAB59-8A13-4A29-8641-CD31E7751FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B34EBBEC-DE30-43A7-8AAF-7326F2C6712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34EBBEC-DE30-43A7-8AAF-7326F2C6712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34EBBEC-DE30-43A7-8AAF-7326F2C6712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBFAB59-8A13-4A29-8641-CD31E7751FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBFAB59-8A13-4A29-8641-CD31E7751FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBFAB59-8A13-4A29-8641-CD31E7751FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBFAB59-8A13-4A29-8641-CD31E7751FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

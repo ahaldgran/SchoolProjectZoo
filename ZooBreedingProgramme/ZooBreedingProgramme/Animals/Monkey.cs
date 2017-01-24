@@ -3,15 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ZooBreedingProgramme.Contracts;
 
 namespace ZooBreedingProgramme
 {
-    public interface ISpecies
-    {
-        void SetName(string name);
-        string GetName();
-    }
-
     public class Monkey : ISpecies
     {
         private string _name;
