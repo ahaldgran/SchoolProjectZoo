@@ -49,7 +49,6 @@
     <Compile Include="Species.cs" />
     <Compile Include="Animal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="BreedingDirector.cs" />
     <Compile Include="ZooDirector.cs" />
     <Compile Include="ZooLogger.cs" />
   </ItemGroup>

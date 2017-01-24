@@ -21,11 +21,5 @@ namespace ZooBreedingProgramme
         {
             _chromosome2 = chromosome2;
         }
-
-        //public override IAnimal GetAnimal()
-        //{
-            
-
-        }
     }
 }

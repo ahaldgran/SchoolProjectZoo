@@ -8,3 +8,7 @@ C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo
 C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.pdb
 C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.dll
 C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\obj\Debug\ZooBreedingProgramme.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\ZooBreedingProgramme\bin\Debug\ZooBreedingProgramme.pdb

@@ -14,3 +14,11 @@ C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo
 C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.csprojResolveAssemblyReference.cache
 C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.exe
 C:\Users\Asbjørn\Documents\Visual Studio 2015\Skillshouse\Dag2\PlayTimeAtTheZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.exe.config
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.exe
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\obj\Debug\zooconsole.csprojResolveAssemblyReference.cache
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.exe
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\bin\Debug\zooconsole.pdb
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\bin\Debug\ZooBreedingProgramme.dll
+C:\Users\Asbjørn\Source\Repos\SchoolProjectZoo\ZooBreedingProgramme\zooconsole\bin\Debug\ZooBreedingProgramme.pdb

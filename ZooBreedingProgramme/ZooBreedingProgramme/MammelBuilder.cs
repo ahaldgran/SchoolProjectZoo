@@ -21,20 +21,20 @@ namespace ZooBreedingProgramme
             _chromosome2 = chromosome2;
         }
 
-        public override IAnimal GetAnimal()
-        {
-            if (_chromosome1._iClassification == _chromosome2._iClassification && _chromosome1._iSpecies == _chromosome2._iSpecies)
-            {
-                string ChildName = $"{_chromosome1.Name}{_chromosome2.Name} IsAMammel";
-                ZooLogger.Instance.Log($"New child is born: {ChildName}");
+        //public override IAnimal GetAnimal()
+        //{
+        //    if (_chromosome1._iClassification == _chromosome2._iClassification && _chromosome1._iSpecies == _chromosome2._iSpecies)
+        //    {
+        //        string ChildName = $"{_chromosome1.Name}{_chromosome2.Name} IsAMammel";
+        //        ZooLogger.Instance.Log($"New child is born: {ChildName}");
                 
-                return new Animal(ChildName,_chromosome1._iClassification,_chromosome1._iSpecies);
-            }
-            else
-            {
-                return null;
-            }
+        //        return new Animal(ChildName,_chromosome1._iClassification,_chromosome1._iSpecies);
+        //    }
+        //    else
+        //    {
+        //        return null;
+        //    }
             
-        }
+        //}
     }
 }
