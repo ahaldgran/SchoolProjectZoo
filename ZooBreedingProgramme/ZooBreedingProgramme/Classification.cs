@@ -37,4 +37,54 @@ namespace ZooBreedingProgramme
             return null;
         }
     }
+
+    public class Reptile : IClassification
+    {
+        public string Name { get; set; }
+        public Reptile()
+        {
+            this.Name = nameof(Reptile);
+        }
+
+        public string GetName()
+        {
+            return Name;
+        }
+
+
+        public void Show()
+        {
+
+        }
+
+        public string ShowDescription()
+        {
+            return null;
+        }
+    }
+
+    public class Fish : IClassification
+    {
+        public string Name { get; set; }
+        public Fish()
+        {
+            this.Name = nameof(Fish);
+        }
+
+        public string GetName()
+        {
+            return Name;
+        }
+
+
+        public void Show()
+        {
+
+        }
+
+        public string ShowDescription()
+        {
+            return null;
+        }
+    }
 }

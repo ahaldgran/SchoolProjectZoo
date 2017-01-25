@@ -21,9 +21,28 @@ namespace zooconsole
 
             IHabitat cage1 = new Cage("No1");
             IHabitat cage2 = new Cage("No2");
+            IHabitat cage3 = new Cage("No3");
 
             AnimalContainer animalContainer1 = new AnimalContainer(new Animal("Bob", new Mammel(), new Monkey("Gorilla"),Mutate ), cage1);
             AnimalContainer animalContainer2 = new AnimalContainer(new Animal("Marly", new Mammel(), new Monkey("Gorilla")), cage2);
+
+            List<Animal> LotsOfAnimals = new List<Animal>();
+            for (int i = 0; i < 42; i++)
+            {
+                LotsOfAnimals.Add(new Animal("MiniFisk_" + i, new Fish(), new RedFish("Rød")));
+            }
+            for (int i = 0; i < 12; i++)
+            {
+                LotsOfAnimals.Add(new Animal("Cobra_" + i, new Reptile(), new Snake("Plisken")));
+            }
+            for (int i = 0; i < 54; i++)
+            {
+                LotsOfAnimals.Add(new Animal("Abe No_" + i, new Mammel(), new Monkey("Gorilla")));
+            }
+            var q = LotsOfAnimals.Where(a => a._iSpecies.GetName() == "Gorilla").Count();
+            Console.WriteLine(q);
+            Console.ReadKey();
+
             genericAnimalBuilder.Chromosome1(animalContainer1.animal);
             genericAnimalBuilder.Chromosome2(animalContainer2.animal);
 

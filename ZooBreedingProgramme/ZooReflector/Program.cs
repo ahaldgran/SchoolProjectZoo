@@ -23,7 +23,6 @@ namespace ZooReflector
             {
                 Console.WriteLine(t.Name);
             }
-
         }
     }
 }
