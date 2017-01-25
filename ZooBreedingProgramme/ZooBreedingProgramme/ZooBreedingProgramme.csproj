@@ -45,6 +45,7 @@
     <Compile Include="BreedEventArgs.cs" />
     <Compile Include="Contracts\IAnimal.cs" />
     <Compile Include="Contracts\ISpecies.cs" />
+    <Compile Include="exstensionmethods.cs" />
     <Compile Include="GenericAnimalBuilder.cs" />
     <Compile Include="MammelBuilder.cs" />
     <Compile Include="AnimalBuilder.cs" />
